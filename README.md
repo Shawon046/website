@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+Yet another steal of [Jon Barron](https://jonbarron.info/)'s  amazing website.The website design is just a modification of Jon Barron's website and is converted for my own use. **Feel free to use template for your own purposes**, but please respect copyright where it's applicable. 
