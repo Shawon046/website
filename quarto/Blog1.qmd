@@ -1,0 +1,35 @@
+
+---
+title: "Random Variable"
+author: "Md Shahedul Haque"
+date: 2023-11-12
+output:
+  html_document:
+    toc: true
+---
+
+This blog is created for one of my graduate courses (CS58085: Machine Learning)
+
+
+# Introduction
+
+This is the introduction to my Quarto blog post.
+
+# Section 1
+
+This is the first section of the blog post.
+
+# Section 2
+
+This is the second section of the blog post.
+
+# Conclusion
+
+In conclusion, I hope you found this blog post helpful.
+
+
+
+```{python}
+# Checking 
+print(5+6)
+```
